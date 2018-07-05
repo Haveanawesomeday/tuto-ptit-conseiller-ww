@@ -1,5 +1,5 @@
 {
-  "name": "tuto-ptit-conseiller-www",
+  "name": "tuto-webserver-www",
   "version": "1.0.0",
   "description": "The simplest web server to be hosted on Heroku and demo chat window chatbot\"",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Haveanawesomeday/tuto-ptit-conseiller-www.git"
+    "url": "git+https://github.com/Haveanawesomeday/tuto-webserver-www.git"
   },
   "keywords": [
     "web",
@@ -19,12 +19,12 @@
     "window",
     "heroku"
   ],
-  "author": "Romain Nervil Botfuel",
+  "author": "Botfuel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Haveanawesomeday/tuto-ptit-conseiller-www/issues"
+    "url": "https://github.com/Haveanawesomeday/tuto-webserver-www/issues"
   },
-  "homepage": "https://github.com/Haveanawesomeday/tuto-ptit-conseiller-www#readme",
+  "homepage": "https://github.com/Haveanawesomeday/tuto-webserver-www#readme",
   "dependencies": {
     "express": "^4.16.3",
     "express-handlebars": "^3.0.0"
